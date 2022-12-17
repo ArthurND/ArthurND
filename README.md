@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ArthurND
 - 👀 I’m interested in computing and  basketball mainly
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on react projects
+- 💞️ I’m looking to improvement
 - 📫 How to reach me 
 
 <!---
